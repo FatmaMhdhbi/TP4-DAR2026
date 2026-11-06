@@ -19,16 +19,7 @@ Mettre en place une application de chat client/serveur en Java basée sur le pro
 
 ## 3. Structure du projet
 
-```
-votreNomPrenom_LSI3_DevAppReparties/
-├── src/
-│   ├── serverPackage/
-│   │   └── ServerUDP.java
-│   └── clientPackage/
-│       └── ClientUDP.java
-├── screenshots/
-└── README.md
-```
+<img width="301" height="511" alt="image" src="https://github.com/user-attachments/assets/23d3066c-4bff-432a-9a68-49ca8cb86208" />
 
 ---
 
@@ -121,15 +112,3 @@ Les messages envoyés par un client sont reçus par le serveur puis diffusés à
 
 Ce TP a permis de maîtriser l'échange de datagrammes avec `DatagramSocket` et `DatagramPacket`, la gestion de plusieurs clients côté serveur et l'utilisation des threads côté client pour un chat asynchrone en mode non-connecté.
 
-## 8. Lancement
-
-```bash
-# Compiler
-javac -d bin src/serverPackage/ServerUDP.java src/clientPackage/ClientUDP.java
-
-# Lancer le serveur
-java -cp bin serverPackage.ServerUDP
-
-# Lancer chaque client dans un terminal séparé
-java -cp bin clientPackage.ClientUDP
-```
