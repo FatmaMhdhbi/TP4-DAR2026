@@ -2,8 +2,7 @@
 ## Service de chat Client/Serveur avec UDP
 
 **Matière :** Développement d'applications réparties
-**Auditoire :** LSI 3 – Faculté des Sciences de Sfax
-**Année universitaire :** 2026 – 2027
+
 **Réalisé par :** *Fatma Mhadhbi*
 
 ---
