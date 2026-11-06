@@ -4,7 +4,7 @@
 **Matière :** Développement d'applications réparties
 **Auditoire :** LSI 3 – Faculté des Sciences de Sfax
 **Année universitaire :** 2026 – 2027
-**Réalisé par :** *votre Nom Prénom*
+**Réalisé par :** *Fatma Mhadhbi*
 
 ---
 
